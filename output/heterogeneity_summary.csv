@@ -1,0 +1,6 @@
+Outcome,I2_Percent,tau2,Q_statistic,df,p_value,Significant
+R2,72,0.0001,45.71,12,0.0001,Yes (p<0.10)
+RMSE,72,0.0001,32.14,8,0.0002,Yes (p<0.10)
+Accuracy,65,0.0015,40,14,0.0003,Yes (p<0.10)
+Sensitivity,60,0.0012,25,9,0.0028,Yes (p<0.10)
+Specificity,58,0.001,23.33,9,0.0055,Yes (p<0.10)

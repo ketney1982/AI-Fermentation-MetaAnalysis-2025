@@ -1,0 +1,14 @@
+Category,Subcategory,Count,Percent
+Year Range,2015-2022,40,44.94
+Year Range,2023,9,10.11
+Year Range,2024,15,16.85
+Year Range,2025,25,28.09
+AI Method,AI Generic,45,50.56
+AI Method,ML Generic,30,33.71
+AI Method,Computer Vision,15,16.85
+AI Method,Digital Twins,7,7.87
+AI Method,Soft Sensors,6,6.74
+Experimental Scale,Lab,45,50.56
+Experimental Scale,Pilot,3,3.37
+Experimental Scale,Industrial,5,5.62
+Experimental Scale,Unspecified,36,40.45

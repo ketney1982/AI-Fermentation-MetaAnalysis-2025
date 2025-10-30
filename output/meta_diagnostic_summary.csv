@@ -1,0 +1,5 @@
+Metric,Mean,CI_Lower,CI_Upper
+Accuracy,94.2,92.1,96.3
+Sensitivity,93.8,91.5,96.1
+Specificity,95.1,93.2,97
+AUC,0.98,0.96,0.99

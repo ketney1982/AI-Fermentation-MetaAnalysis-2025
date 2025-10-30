@@ -1,0 +1,3 @@
+Metric,Mean,CI_Lower,CI_Upper,I2_Percent
+R2,0.88,0.84,0.92,72
+RMSE,0.13,0.1,0.16,72

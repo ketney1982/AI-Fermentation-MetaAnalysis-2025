@@ -1,0 +1,3 @@
+test,statistic,p_value,interpretation
+Egger_test,1.23,0.08,No significant publication bias
+Trim_and_fill,0,0.5,No studies trimmed

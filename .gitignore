@@ -1,0 +1,81 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.autosave
+
+# Output files
+
+output/*.json
+output/*.mat
+
+# MCP logs
+mcp/mcp_test_log.json
+mcp/*.log
+
+# Node modules (if MCP server installed locally)
+node_modules/
+package-lock.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Data files (large RIS files should be in .gitignore)
+*.ris
+!tests/
+
+# MATLAB workspace
+*.mat
+!tests/*.mat
+
+# Logs
+*.log
+
+# ============================================
+# FIȘIERE NEFOLOSITE DE main.m
+# ============================================
+
+# Scripts alternative (nu sunt apelate de main.m)
+main_manuscript.m
+main_comparison.m
+adjust_to_manuscript.m
+verify_manuscript_data.m
+recalculate_manuscript_data.m
+analyze_manuscript_logic.m
+project_check.m
+
+# Configurări alternative
+config_manuscript_targets.json
+
+# Documente Word
+*.txt
+!README.txt
+
+# MCP (Model Context Protocol) - nu este folosit de main.m
+mcp/
+node_modules/
+
+# Setup scripts (nu sunt necesare pentru rulare)
+setup_check.sh
+setup_check.bat
+
+# Teste (opțional - păstrează dacă vrei să le incluzi)
+# tests/
+tests/run_all_tests.m
+tests/test_deduplicate.m
+tests/test_parse_ris.m
+config.json
